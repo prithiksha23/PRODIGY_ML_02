@@ -1,5 +1,5 @@
-this code is implemented to create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
-here i have used following libraries and packages for creating k-means clustering algorithm:
+This code is implemented to create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
+Here i have used following libraries and packages for creating k-means clustering algorithm:
   - pandas for dataframe
   - numpy for numerical opertaions
   - matplotlib for visulaization
